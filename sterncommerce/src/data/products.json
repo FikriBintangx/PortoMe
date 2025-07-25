@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Graphic Tee", "price": 25, "image": "/placeholder.svg" },
+  { "id": 2, "name": "Hoodie", "price": 50, "image": "/placeholder.svg" },
+  { "id": 3, "name": "Jeans", "price": 60, "image": "/placeholder.svg" },
+  { "id": 4, "name": "Sneakers", "price": 80, "image": "/placeholder.svg" },
+  { "id": 5, "name": "Beanie", "price": 15, "image": "/placeholder.svg" },
+  { "id": 6, "name": "Tote Bag", "price": 20, "image": "/placeholder.svg" }
+]
