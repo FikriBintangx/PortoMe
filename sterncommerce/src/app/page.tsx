@@ -1,17 +1,13 @@
-import HeroSection from "@/components/HeroSection";
-import AboutSection from "@/components/AboutSection";
-import PromoSection from "@/components/PromoSection";
-import MenuSection from "@/components/MenuSection";
-import ContactSection from "@/components/ContactSection";
-
-export default function Home() {
+export default function HomePage() {
   return (
-    <main>
-      <HeroSection />
-      <AboutSection />
-      <PromoSection />
-      <MenuSection />
-      <ContactSection />
-    </main>
+    <div>
+      <h1 className="text-4xl font-bold text-center">
+        Welcome to CosmiCoffee
+      </h1>
+      <p className="text-center text-lg mt-4">
+        Freshly brewed, just for you.
+      </p>
+      {/* Featured products will be added here later */}
+    </div>
   );
 }
